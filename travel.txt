@@ -1,3 +1,8 @@
 Packing list
 __________
 -shoes
+-coat
+
+Picnic
+_________
+bread
